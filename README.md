@@ -9,6 +9,8 @@ BTH is a cutting edge cryptocurrency, with many features not available in most o
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
   technology used to secure the network and provide the above features, each Masternode is secured
   with collateral of 10K BTH
+  
+Cryptocurrency called Bithereumcoin is a new cryptocurrency like a Bitcoin but Bithereumcoin developed through network and lending system, so it is very fast to grow.
 
 More information at [bithereum.com](http://www.bithereum.com) Visit our ANN thread at [BitcoinTalk](#)
 
