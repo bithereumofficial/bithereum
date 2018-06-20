@@ -12,7 +12,7 @@ BTH is a cutting edge cryptocurrency, with many features not available in most o
   
 Cryptocurrency called Bithereumcoin is a new cryptocurrency like a Bitcoin but Bithereumcoin developed through network and lending system, so it is very fast to grow.
 
-More information at [bithereum.com](http://www.bithereum.com) Visit our ANN thread at [BitcoinTalk](#)
+More information at [bithereumcoin.com](https://www.bithereumcoin.com) Visit our ANN thread at [BitcoinTalk](#)
 
 ### Coin Specification
 <table>
